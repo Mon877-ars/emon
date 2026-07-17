@@ -30,12 +30,11 @@
 
 ## 📚 Currently Learning
 
-- Python
-- SQL
-- Machine Learning
-- Data Engineering
-- Linux
-- Git
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode,mysql&theme=dark"/>
+</p>
 
 ---
 
