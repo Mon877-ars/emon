@@ -67,6 +67,4 @@ Coming Soon
 
 ---
 
-> "Building intelligent systems, one commit at a time."
-<img width="2172" height="724" alt="ChatGPT Image Jul 17, 2026, 03_59_39 PM" src="https://github.com/user-attachments/assets/c55fe03c-ed67-4263-bad8-44bdc9e3122f" />
 
