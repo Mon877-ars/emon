@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="![Uploading ChatGPT Image Jul 17, 2026, 03_59_39 PM.png…]()" alt="Hermon Ginting Banner" width="100%">
+  <img src="./banner.png" alt="Hermon Ginting " width="100%">
 </p>
-<div align="center">
+<div align="center"
 
 # Hi 👋 I'm Hermon Ginting
 
