@@ -23,25 +23,38 @@
 ---
 
 ## 🛠 Tech Stack
+## 📊 GitHub Stats
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=emon&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emon&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode,mysql&theme=dark"/>
+</p>
 <!-- Skill Icons -->
 
 ---
 
 ## 📚 Currently Learning
 
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode,mysql&theme=dark"/>
-</p>
+- Python
+- SQL
+- Machine Learning
+- Data Engineering
+- Linux
+- Git
 
 ---
 
 ## 📊 GitHub Statistics
 
 <!-- GitHub Stats -->
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=emon&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 ## 🎯 Goals 2026
